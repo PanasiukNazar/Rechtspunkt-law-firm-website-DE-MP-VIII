@@ -1947,8 +1947,8 @@ hr {
 }
 @media (max-width: 575px) {
     .section-tittle.section-tittle6 span.back-text {
-        font-size: 56px;
-        transform: translateY(-136%);
+        font-size: 45px;
+        transform: translateY(-160%);
     }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
